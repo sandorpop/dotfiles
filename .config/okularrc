@@ -1,0 +1,14 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[Recent Files]
+File1[$e]=$HOME/Japanese/Minna No Nihongo/MinnaNoNihongo Exercises.pdf
+File2[$e]=$HOME/Japanese/Minna No Nihongo/minna-no-nihongo Grammatical notes.pdf
+File3[$e]=$HOME/.config/hyde/wallbash/README.md
+Name1[$e]=MinnaNoNihongo Exercises.pdf
+Name2[$e]=minna-no-nihongo Grammatical notes.pdf
+Name3[$e]=README.md

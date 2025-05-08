@@ -1,0 +1,6 @@
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop
+application/pdf=okularApplication_pdf.desktop
+
+[Added Associations]
+application/pdf=okularApplication_pdf.desktop;

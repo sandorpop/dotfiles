@@ -1,0 +1,17 @@
+[Colors:View]
+BackgroundNormal=#203237
+
+[General]
+TerminalApplication=/usr/bin/alacritty
+
+[Icons]
+Theme=Tela-circle-purple
+
+[KDE]
+widgetStyle=kvantum
+
+[UiSettings]
+ColorScheme=colors
+
+[Wallet]
+Enabled=false
